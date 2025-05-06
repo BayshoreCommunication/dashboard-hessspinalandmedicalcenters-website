@@ -6,7 +6,7 @@ export const CLOUDINARY_CLOUD_NAME = "djwzr5m6g";
 export const CLOUDINARY_UPLOAD_PRESET = "tikiBlogs";
 export const CLOUDINARY_FOLDER = "blog";
 
-// New Image Upload Configuration Digital Ocean
+// New Image Upload Configuration Digital Ocean Spaces
 
 export const DIGITALOCEAN_ENDPOINT = "https://nyc3.digitaloceanspaces.com";
 export const DIGITALOCEAN_API_KEY = "DO00HFNWVPYJBRTBVZZJ";
